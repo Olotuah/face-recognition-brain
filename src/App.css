@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.particles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  width: 200;
+}
+
+ 
